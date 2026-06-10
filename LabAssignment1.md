@@ -214,7 +214,7 @@ Assignment01/
 | Dynamic Binding        | 2.0      |
 | Safe Downcasting       | 1.5      |
 | Documentation & UML    | 1.0      |
-| **Total**              | **100** |
+| **Total**              | **10** |
 
 ---
 
